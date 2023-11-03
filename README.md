@@ -17,4 +17,4 @@ shell一键安装脚本
 2.  复制一键脚本
 3.  回车傻瓜式安装
 
-1.   **SaoML流控技术交流：** [646992284](https://qm.qq.com/cgi-bin/qm/qr?k=fypzTK8vFNkZNc9GQiyWSa_oQ_x4Q20n&jump_from=webapi&authKey=3OmdQIL7wE16Mtd5lDkxMw3t3p25eSVsML3//4T+uYSrrbYhfaCjGPb/MbFXeeq6)
+1.   **SaoML流控技术交流：** [646992284](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=lqPDC9pCbR_Jl-X6tP3V1rsMWkXVNWXp&authKey=IKg8MNLrOVDSF%2BeeBBn7ulZI33Sfp1LhKeLjmIjeh%2BNwubzqusR6iQY%2BY6cuuuix&noverify=0&group_code=646992284)
