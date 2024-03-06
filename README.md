@@ -5,7 +5,7 @@
 
 #### 介绍
  **SaoML/SaoPanel脚本是一键安装的脚本,方便快捷,体积小,支持CentOS7操作系统，SaoML官网：** [ml.xqk886.cn
-](http://ml.xqk886.cn)
+](http://ml.xqk886.cn)  **SaoPanel官网：** [doc.xqk886.cn](http://doc.xqk886.cn)
 
 #### 软件架构
 
